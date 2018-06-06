@@ -1,0 +1,4 @@
+C:\Estudos\WEB FORMS\TesteLogicaVogais\TesteLogicaVogais\bin\Debug\TesteLogicaVogais.exe
+C:\Estudos\WEB FORMS\TesteLogicaVogais\TesteLogicaVogais\bin\Debug\TesteLogicaVogais.pdb
+C:\Estudos\WEB FORMS\TesteLogicaVogais\TesteLogicaVogais\obj\x86\Debug\TesteLogicaVogais.exe
+C:\Estudos\WEB FORMS\TesteLogicaVogais\TesteLogicaVogais\obj\x86\Debug\TesteLogicaVogais.pdb
